@@ -8,11 +8,11 @@ Installation
 
 installation is simple
 
-    pip install suds-passworddigest
+    pip install suds-passworddigest2
 
 or
 
-    pip install git+https://github.com/suvit/suds-passworddigest
+    pip install git+https://github.com/sustech/suds-passworddigest2
 
 
 Usage
