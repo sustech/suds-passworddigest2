@@ -24,7 +24,7 @@ setup(
     author='Victor Safronovich',
     author_email='vsafronovich@gmail.com',
     license='MIT',
-    url='http://github.com/suvit/suds-passworddigest',
+    url='http://github.com/sustech/suds-passworddigest2',
     zip_safe=False,
     packages=find_packages(exclude=['docs', 'examples', 'tests']),
     install_requires=['suds'],
