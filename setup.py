@@ -15,7 +15,7 @@ setup(
     version=VERSION,
     description='adds Web Services Security'
                 ' PasswordDigest authentication to SUDS',
-    long_description=file(
+    long_description=open(
         os.path.join(
             os.path.dirname(__file__),
             'README.md'
